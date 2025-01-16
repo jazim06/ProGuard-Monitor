@@ -1,7 +1,6 @@
 # proguard
 
-A new Flutter project.
-
+A project that monitors An employee activity
 ## Getting Started
 
 This project is a starting point for a Flutter application.
